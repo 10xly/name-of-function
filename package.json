@@ -1,0 +1,34 @@
+{
+  "name": "name-of-function",
+  "version": "1.0.0",
+  "description": "Get the name of a function.",
+  "keywords": [
+    "function",
+    "name",
+    "tj-commits",
+    "jsfruit"
+  ],
+  "homepage": "https://github.com/enterprise-npm-ai/name-of-function#readme",
+  "bugs": {
+    "url": "https://github.com/enterprise-npm-ai/name-of-function/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/enterprise-npm-ai/name-of-function.git"
+  },
+  "license": "MIT",
+  "author": "me",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "@errorstream/err": "^1.1.0",
+    "@socketregistry/functions-have-names": "^1.0.7",
+    "assert-is-function-x": "^2.1.0",
+    "attempt-x": "^1.1.3",
+    "es-logical-not-operator": "^1.0.0",
+    "functions-have-names": "^1.2.3"
+  }
+}
