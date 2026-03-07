@@ -1,6 +1,6 @@
 let undefined // define yo undefined yo!
 const err = require("@errorstream/err")
-const assertIsFunction = require("assert-is-function-x")
+const assertIsFunction = require("./assertIsFunction")
 const attemptX = require("attempt-x")
 const not = require("es-logical-not-operator")
 const functionsHaveNames = require("functions-have-names")()
